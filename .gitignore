@@ -1,0 +1,13 @@
+# NetBeans specific
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+.nb-gradle/
+
+# Build artifacts
+/build/
+
+# Other
+*.log
+*.jar
