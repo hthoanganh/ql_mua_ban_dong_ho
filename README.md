@@ -21,9 +21,11 @@
 <img width="986" height="1409" alt="Screenshot 2025-08-14 220011" src="https://github.com/user-attachments/assets/3878cd2e-0b3d-4a7e-9d9e-d6f1aa2fdb43" />
 
 Người dùng có thể chọn thanh toán bằng tiền mặt hoặc chuyển khoản (bằng mã QR): 
-(https://github.com/user-attachments/assets/5d4e5df6-30bb-4fcf-844d-22a1c425ac83)
-(https://github.com/user-attachments/assets/7bb02b42-1cd0-4710-b98b-8792c8b01b08)
-- Sau khi chọn thanh toán sẽ hiện thông báo mua hàng thành công
+<img width="1450" height="1411" alt="Screenshot 2025-08-14 220208" src="https://github.com/user-attachments/assets/3b181a07-ec17-4f39-80af-01764f5e4897" />
+<img width="1448" height="1406" alt="Screenshot 2025-08-14 220224" src="https://github.com/user-attachments/assets/d630c666-0a3b-4ade-9325-b74124705ad3" />
+
+- Sau khi chọn t![Uploading Screenshot 2025-08-14 220208.png…]()
+hanh toán sẽ hiện thông báo mua hàng thành công
 - Kết nối MySQL thông qua XAMPP:  
 (https://github.com/user-attachments/assets/e39ccc52-c481-450f-b4d2-eb31fd0d3015)
 (https://github.com/user-attachments/assets/a5dabb5e-4c15-4235-8123-8f6c812d3994)
