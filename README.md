@@ -8,8 +8,10 @@
 <img width="1569" height="933" alt="Screenshot 2025-08-14 215541" src="https://github.com/user-attachments/assets/f39caa27-e349-4174-ae29-45001119a26c" />
 
 - Chức năng tìm kiếm thống kê, có thể tìm sản phẩm theo tên hoặc thương hiệu hoặc tầm giá muốn chọn, về thống kê có thể thống kê theo nhiều tiêu chí để người dùng lựa chọn.
-Ảnh tìm kiếm, thống kê (https://github.com/user-attachments/assets/9556aa8a-9f5d-4e93-9b49-db3835ced1d9)
-(https://github.com/user-attachments/assets/b1817aba-dc5a-4889-a889-f2a77c3bf173).
+Ảnh tìm kiếm, thống kê
+<img width="1565" height="1287" alt="Screenshot 2025-08-14 215703" src="https://github.com/user-attachments/assets/031323e3-b933-4aaf-8719-af9a510ce52f" />
+<img width="1568" height="1282" alt="Screenshot 2025-08-14 215639" src="https://github.com/user-attachments/assets/c04a207f-484b-4002-a24c-766a9623f274" />
+
 - Ở giao diện chính có thể đến thông tin admin với chức năng liên hệ
 (https://github.com/user-attachments/assets/30b2c358-6e14-4011-8ef6-759eb47fa50c)
 - Chức năng mua và tạo hóa đơn: Ở giao diện chính nhấn 2 lần để chọn sản phẩm,(https://github.com/user-attachments/assets/6cf00cfb-1515-4c5c-8989-83ae9a2d3a66), Tại đây chọn số lượng muốn mua, số lượng mua không vượt quá số lượng tồn kho hiện tại. Sau khi xác nhận mua, đi đến form hóa đơn, điền các thông tin cá nhân của người mua và chọn chức năng thanh toán.
