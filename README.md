@@ -4,7 +4,9 @@
 <img width="2240" height="1451" alt="Screenshot 2025-08-14 215355" src="https://github.com/user-attachments/assets/ceddd6b1-09f6-45cd-89e2-3cc2801e9859" />
 
 - Giao diện chính: Sau khi đăng nhập thành công sẽ hiện ra giao diện chính, tại đây người dùng có thể thao tác các chức năng như: Thêm, Sửa, Xóa sản phẩm, Tìm kiếm, Thống kê, Nhấp 2 lần để mua hàng và thanh toán với hóa đơn. Tại đây người dùng sẽ thêm, sửa, xóa đồng hồ, ngoài ra có các chức năng bẫy lỗi khi sản phẩm chưa được chọn, hoặc mã sản phẩm bị trùng hay định dạng ngày tháng năm không đúng. Tại đây tên người dùng cũng sẽ hiển thị dựa trên tên tài khoản đăng nhập.
-Ảnh giao diện chính:(https://github.com/user-attachments/assets/2b63454b-8870-4d7a-a51e-b4070d6405fa)
+Ảnh giao diện chính:
+<img width="1569" height="933" alt="Screenshot 2025-08-14 215541" src="https://github.com/user-attachments/assets/f39caa27-e349-4174-ae29-45001119a26c" />
+
 - Chức năng tìm kiếm thống kê, có thể tìm sản phẩm theo tên hoặc thương hiệu hoặc tầm giá muốn chọn, về thống kê có thể thống kê theo nhiều tiêu chí để người dùng lựa chọn.
 Ảnh tìm kiếm, thống kê (https://github.com/user-attachments/assets/9556aa8a-9f5d-4e93-9b49-db3835ced1d9)
 (https://github.com/user-attachments/assets/b1817aba-dc5a-4889-a889-f2a77c3bf173).
