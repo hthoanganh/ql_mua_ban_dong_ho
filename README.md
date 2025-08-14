@@ -24,11 +24,10 @@ Người dùng có thể chọn thanh toán bằng tiền mặt hoặc chuyển 
 <img width="1450" height="1411" alt="Screenshot 2025-08-14 220208" src="https://github.com/user-attachments/assets/3b181a07-ec17-4f39-80af-01764f5e4897" />
 <img width="1448" height="1406" alt="Screenshot 2025-08-14 220224" src="https://github.com/user-attachments/assets/d630c666-0a3b-4ade-9325-b74124705ad3" />
 
-- Sau khi chọn t![Uploading Screenshot 2025-08-14 220208.png…]()
+- Sau khi chọn t ![Uploading Screenshot 2025-08-14 220208.png…]()
 hanh toán sẽ hiện thông báo mua hàng thành công
 - Kết nối MySQL thông qua XAMPP:  
-(https://github.com/user-attachments/assets/e39ccc52-c481-450f-b4d2-eb31fd0d3015)
-(https://github.com/user-attachments/assets/a5dabb5e-4c15-4235-8123-8f6c812d3994)
 
-
+<img width="1564" height="1011" alt="Screenshot 2025-08-14 220344" src="https://github.com/user-attachments/assets/18a49219-1315-446c-b41d-e22097b72dc3" />
+<img width="1565" height="1049" alt="Screenshot 2025-08-14 220334" src="https://github.com/user-attachments/assets/0c5fa6a6-3153-4589-b475-feb00478a056" />
 
