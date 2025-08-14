@@ -13,7 +13,8 @@
 <img width="1568" height="1282" alt="Screenshot 2025-08-14 215639" src="https://github.com/user-attachments/assets/c04a207f-484b-4002-a24c-766a9623f274" />
 
 - Ở giao diện chính có thể đến thông tin admin với chức năng liên hệ
-(https://github.com/user-attachments/assets/30b2c358-6e14-4011-8ef6-759eb47fa50c)
+<img width="1461" height="1413" alt="Screenshot 2025-08-14 215854" src="https://github.com/user-attachments/assets/72f9a7ba-bb70-40c2-a87a-27ce54a5e6ac" />
+
 - Chức năng mua và tạo hóa đơn: Ở giao diện chính nhấn 2 lần để chọn sản phẩm,(https://github.com/user-attachments/assets/6cf00cfb-1515-4c5c-8989-83ae9a2d3a66), Tại đây chọn số lượng muốn mua, số lượng mua không vượt quá số lượng tồn kho hiện tại. Sau khi xác nhận mua, đi đến form hóa đơn, điền các thông tin cá nhân của người mua và chọn chức năng thanh toán.
 (https://github.com/user-attachments/assets/07a82ff0-2406-4eed-a0da-1185e7219888)
 Người dùng có thể chọn thanh toán bằng tiền mặt hoặc chuyển khoản (bằng mã QR): 
