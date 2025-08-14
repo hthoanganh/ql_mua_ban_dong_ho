@@ -15,8 +15,11 @@
 - Ở giao diện chính có thể đến thông tin admin với chức năng liên hệ
 <img width="1461" height="1413" alt="Screenshot 2025-08-14 215854" src="https://github.com/user-attachments/assets/72f9a7ba-bb70-40c2-a87a-27ce54a5e6ac" />
 
-- Chức năng mua và tạo hóa đơn: Ở giao diện chính nhấn 2 lần để chọn sản phẩm,(https://github.com/user-attachments/assets/6cf00cfb-1515-4c5c-8989-83ae9a2d3a66), Tại đây chọn số lượng muốn mua, số lượng mua không vượt quá số lượng tồn kho hiện tại. Sau khi xác nhận mua, đi đến form hóa đơn, điền các thông tin cá nhân của người mua và chọn chức năng thanh toán.
-(https://github.com/user-attachments/assets/07a82ff0-2406-4eed-a0da-1185e7219888)
+- Chức năng mua và tạo hóa đơn: Ở giao diện chính nhấn 2 lần để chọn sản phẩm,
+<img width="1086" height="1327" alt="Screenshot 2025-08-14 215953" src="https://github.com/user-attachments/assets/54eba2b8-5b2f-4292-b9cb-e59b279fe7ed" />
+- Tại đây chọn số lượng muốn mua, số lượng mua không vượt quá số lượng tồn kho hiện tại. Sau khi xác nhận mua, đi đến form hóa đơn, điền các thông tin cá nhân của người mua và chọn chức năng thanh toán.
+<img width="986" height="1409" alt="Screenshot 2025-08-14 220011" src="https://github.com/user-attachments/assets/3878cd2e-0b3d-4a7e-9d9e-d6f1aa2fdb43" />
+
 Người dùng có thể chọn thanh toán bằng tiền mặt hoặc chuyển khoản (bằng mã QR): 
 (https://github.com/user-attachments/assets/5d4e5df6-30bb-4fcf-844d-22a1c425ac83)
 (https://github.com/user-attachments/assets/7bb02b42-1cd0-4710-b98b-8792c8b01b08)
