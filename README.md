@@ -64,3 +64,8 @@
 | Thông tin Admin | Kết nối MySQL (XAMPP) |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/72f9a7ba-bb70-40c2-a87a-27ce54a5e6ac" width="100%" /> | <img src="https://github.com/user-attachments/assets/18a49219-1315-446c-b41d-e22097b72dc3" width="100%" /> <br> <img src="https://github.com/user-attachments/assets/0c5fa6a6-3153-4589-b475-feb00478a056" width="100%" /> |
+
+## 👨‍💻 Tác giả
+
+**Hoàng Anh Apache**
+* Dự án Quản lý Mua bán Đồng hồ (MySQL Version).
